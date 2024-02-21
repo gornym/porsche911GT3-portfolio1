@@ -64,9 +64,9 @@ export default {
         linkedin.value = url3;
         github.value = url4;
 
-        console.log("Pomyślnie pobrano URL zdjęcia:", url1);
+        // console.log("Pomyślnie pobrano URL zdjęcia:", url1);
       } catch (error) {
-        console.error("Błąd podczas pobierania URL zdjęcia:", error.message);
+        // console.error("Błąd podczas pobierania URL zdjęcia:", error.message);
       }
     }
 

@@ -84,9 +84,9 @@ export default {
           imageUrls.value.push(url);
         }
 
-        console.log("Successfully fetched image URLs:", imageUrls.value);
+        // console.log("Successfully fetched image URLs:", imageUrls.value);
       } catch (error) {
-        console.error("Error fetching image URLs:", error.message);
+        // console.error("Error fetching image URLs:", error.message);
       }
     }
 

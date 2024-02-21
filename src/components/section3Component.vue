@@ -314,9 +314,9 @@ export default {
         track2.value = url3;
         track3.value = url4;
 
-        console.log("Pomyślnie pobrano URL zdjęcia:", url1);
+        // console.log("Pomyślnie pobrano URL zdjęcia:", url1);
       } catch (error) {
-        console.error("Błąd podczas pobierania URL zdjęcia:", error.message);
+        // console.error("Błąd podczas pobierania URL zdjęcia:", error.message);
       }
     }
 

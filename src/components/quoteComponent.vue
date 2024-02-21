@@ -27,10 +27,11 @@
 }
 @media only screen and (max-width: 900px) {
   .quote-box {
+    height: 50vh !important;
     padding-top: 5rem !important;
     padding-bottom: 5rem !important;
     h2 {
-      padding: 0 !important;
+      padding: 0 !important; /* 30rem padding from the top */
       text-align: center;
       color: #202020;
     }

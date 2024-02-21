@@ -180,9 +180,9 @@ export default {
         imageUrl3.value = url3;
         imageUrl4.value = url4;
 
-        console.log("Pomyślnie pobrano URL zdjęcia:", url1);
+        // console.log("Pomyślnie pobrano URL zdjęcia:", url1);
       } catch (error) {
-        console.error("Błąd podczas pobierania URL zdjęcia:", error.message);
+        // console.error("Błąd podczas pobierania URL zdjęcia:", error.message);
       }
     }
 
