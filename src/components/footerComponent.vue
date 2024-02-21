@@ -15,7 +15,7 @@
       <a href="https://www.linkedin.com/in/maciej-g%C3%B3rny-5b7129252/">
         <img alt="linkedin" :src="linkedin" draggable="false"
       /></a>
-      <a href="https://www.linkedin.com/in/maciej-g%C3%B3rny-5b7129252/">
+      <a href="https://github.com/gornym/porsche911GT3-portfolio1">
         <img alt="github" :src="github" draggable="false"
       /></a>
     </div>
