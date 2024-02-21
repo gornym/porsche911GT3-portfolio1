@@ -91,7 +91,7 @@
         </div>
         <div class="content-phone">
           <h1>GT Championship Victories</h1>
-          <a style="padding: 20px 20px">
+          <a style="padding: 40px 20px">
             The Porsche 911 GT3 (997) achieved multiple victories in various GT
             Championship series worldwide, clinching championship titles in
             2007, 2009, and 2011.
@@ -101,7 +101,7 @@
       <div class="achievement3-phone">
         <div class="content-phone">
           <h1>Pikes Peak International Hill Climb Victory</h1>
-          <a style="padding: 20px 10px">
+          <a style="padding: 40px 10px">
             In 2019, the Porsche 911 GT3 (991) impressed the world, claiming the
             first position in its class at the iconic Pikes Peak International
             Hill Climb.
