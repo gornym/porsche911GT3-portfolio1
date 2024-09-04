@@ -421,7 +421,7 @@ export default {
     .achievement2-phone,
     .achievement3-phone,
     .achievement4-phone {
-      height: 20%;
+      height: auto;
       width: 90%;
       background-color: rgba(255, 255, 255, 0.248);
       border-radius: 0.25rem;

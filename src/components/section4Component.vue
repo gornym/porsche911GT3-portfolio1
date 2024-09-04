@@ -36,8 +36,8 @@
 </template>
 
 <script>
-import Carousel from "/home/pegeraw/Desktop/website-portfolio-1/src/components/Carousel.vue";
-import Slide from "/home/pegeraw/Desktop/website-portfolio-1/src/components/Slide.vue";
+import Carousel from "@/components/Carousel.vue";
+import Slide from "@/components/Slide.vue";
 import { ref, onMounted } from "vue";
 import {
   getStorage,
