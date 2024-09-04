@@ -452,6 +452,7 @@ export default {
           color: #232323;
           text-align: left;
           padding: 10px 10px;
+          padding-top: 0px !important;
         }
       }
       .img-phone {
